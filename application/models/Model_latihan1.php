@@ -1,4 +1,4 @@
-<?php
+<?ph
 class Model_latihan1 extends CI_Model
 {
     //membuat variable untuk menampung nilai
