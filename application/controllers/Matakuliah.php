@@ -1,4 +1,4 @@
-<?php
+<?ph
 class Matakuliah extends CI_Controller
 {
     public function index()
